@@ -24,7 +24,7 @@ We analyze the sentiment of short texts from scrapped-clean data. It combines a 
 
 TextBlob provides two key metrics for sentiment analysis: polarity and subjectivity. Polarity measures the sentiment on a scale from -1 (most negative) to +1 (most positive), while subjectivity indicates how subjective or opinionated the text is, ranging from 0 (most objective) to 1 (most subjective). TextBlob was applied to each comment to calculate these scores, which were then analyzed and visualized to gain insights into the sentiment and subjectivity of the comments. For instance, if the average polarity score of the comments was significantly positive, it suggested that viewers generally had a favorable opinion of the video. The subjectivity scores helped us understand how personal or opinionated the comments were, with higher subjectivity indicating more personal and subjective comments. By visualizing the polarity and subjectivity scores, we were able to identify the overall sentiment trend and the degree of subjectivity in the comments.
 
-**3.4 ML supported approach (Logistic Regrerssion)**
+**3.4 ML supported approach (Logistic Regression)**
 
 The ML enhances the depth and accuracy of your analysis, providing more meaningful insights into audience reactions to Elon Musk's TED Talk. This comprehensive approach ensures that our findings are robust and actionable, offering significant value to the analysis. The ML model demonstrated balanced performance (71%) across both positive and negative sentiment classes. This indicates that the model is equally effective at identifying positive and negative comments, which is crucial for a fair sentiment analysis.
 
