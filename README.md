@@ -10,7 +10,7 @@ We use Selenium to automate the navigation and extraction of comments from YouTu
 
 We cleaned and preprocessed the scraped data to make it ready for analysis. This involved tokenizing the text data, breaking down comments into individual words or tokens. We generated bigrams to capture pairs of consecutive words, providing more context than single words. Additionally, we counted the frequency of these bigrams to identify common phrases or patterns in the comments. The data preparation phase ensured that our data was free from errors, inconsistencies, and irrelevant content, making it suitable for sentiment analysis.
 
-**3. Sentitment analysis and visualization**
+**3. Sentiment analysis and visualization**
 
 **3.1 NRC**
 
