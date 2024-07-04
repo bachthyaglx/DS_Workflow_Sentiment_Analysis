@@ -26,7 +26,7 @@ TextBlob provides two key metrics for sentiment analysis: polarity and subjectiv
 
 **3.4 ML supported approach (Logistic Regression)**
 
-The ML enhances the depth and accuracy of your analysis, providing more meaningful insights into audience reactions to Elon Musk's TED Talk. This comprehensive approach ensures that our findings are robust and actionable, offering significant value to the analysis. The ML model demonstrated balanced performance (71%) across both positive and negative sentiment classes. This indicates that the model is equally effective at identifying positive and negative comments, which is crucial for a fair sentiment analysis.
+The ML enhances the depth and accuracy of analysis, providing more meaningful insights into audience reactions to Elon Musk's TED Talk. This comprehensive approach ensures that our findings are robust and actionable, offering significant value to the analysis. The ML model demonstrated balanced performance (71%) across both positive and negative sentiment classes. This indicates that the model is equally effective at identifying positive and negative comments, which is crucial for a fair sentiment analysis.
 
 # How to run the project
 1. Go to root directory of the project
